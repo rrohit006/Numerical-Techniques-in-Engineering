@@ -1,1 +1,1 @@
-# Numerical-Techniques-in-Engineering
+# Numerical Techniques in Engineering
